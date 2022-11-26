@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Breakable
+  - Enemy
+  - Door
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Enemy Projectile
+  - Player
+  - Player Projectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Signs
+    uniqueID: 3949808701
+    locked: 0
+  - name: Locked Doors
+    uniqueID: 3331085843
+    locked: 0
+  - name: Treasure Chests
+    uniqueID: 1342276009
+    locked: 0
+  - name: Breakable
+    uniqueID: 3676474743
+    locked: 0
+  - name: Player
+    uniqueID: 1525350117
+    locked: 0
+  - name: Enemy
+    uniqueID: 2850999761
+    locked: 0
+  - name: Context Clues
+    uniqueID: 1123659429
+    locked: 0
+  - name: Received Items
+    uniqueID: 796874023
+    locked: 0
+  - name: Projectiles
+    uniqueID: 4208897411
+    locked: 0
